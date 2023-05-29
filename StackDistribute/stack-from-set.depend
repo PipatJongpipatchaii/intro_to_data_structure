@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1663669446 source:c:\users\user\documents\introdatastruc\stackdistribute\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1663669447 c:\users\user\documents\introdatastruc\stackdistribute\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663732635 c:\users\user\documents\introdatastruc\stackdistribute\student.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663263115 source:c:\users\user\documents\introdatastruc\vecswa[\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1663263115 c:\users\user\documents\introdatastruc\vecswa[\vector.h
+	<stdexcept>
+	<iostream>
+
+1663298194 c:\users\user\documents\introdatastruc\vecswa[\student.h
+	<algorithm>
+

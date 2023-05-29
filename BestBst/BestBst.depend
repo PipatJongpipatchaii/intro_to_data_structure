@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667459004 source:c:\users\user\documents\introdatastruc\bestbst\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<math.h>
+

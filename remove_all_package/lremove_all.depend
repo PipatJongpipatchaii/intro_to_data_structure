@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666512474 source:c:\users\user\documents\introdatastruc\remove_all_package\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1666512474 c:\users\user\documents\introdatastruc\remove_all_package\list.h
+	<stdexcept>
+	<iostream>
+
+1666512959 c:\users\user\documents\introdatastruc\remove_all_package\student.h
+

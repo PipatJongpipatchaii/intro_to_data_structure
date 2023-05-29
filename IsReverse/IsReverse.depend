@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663128016 source:c:\users\user\documents\introdatastruc\isreverse\main.cpp
+	<stdexcept>
+	<iostream>
+

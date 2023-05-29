@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663313989 source:c:\users\user\documents\introdatastruc\rangeinsert\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1663313989 c:\users\user\documents\introdatastruc\rangeinsert\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663315187 c:\users\user\documents\introdatastruc\rangeinsert\student.h
+

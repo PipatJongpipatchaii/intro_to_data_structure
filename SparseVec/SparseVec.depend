@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665559287 source:c:\users\user\documents\introdatastruc\sparsevec\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

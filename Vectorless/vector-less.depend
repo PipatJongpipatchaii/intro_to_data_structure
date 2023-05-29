@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663573523 source:c:\users\user\documents\introdatastruc\vectorless\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1663573523 c:\users\user\documents\introdatastruc\vectorless\vector.h
+	<stdexcept>
+	<iostream>
+
+1663576549 c:\users\user\documents\introdatastruc\vectorless\student.h
+

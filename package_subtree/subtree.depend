@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667459385 source:c:\users\user\documents\introdatastruc\package_subtree\main.cpp
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<set>
+
+1667459385 c:\users\user\documents\introdatastruc\package_subtree\map_bst.h
+	<iostream>
+
+1667463234 c:\users\user\documents\introdatastruc\package_subtree\student.h
+	<algorithm>
+	<vector>
+	"map_bst.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667186865 source:c:\users\user\documents\introdatastruc\zuma\main.cpp
+	<iostream>
+	<list>
+

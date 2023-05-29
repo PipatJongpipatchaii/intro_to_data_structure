@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660882869 source:c:\users\user\documents\introdatastruc\vote\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+

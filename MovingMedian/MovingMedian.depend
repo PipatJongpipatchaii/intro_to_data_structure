@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662362571 source:c:\users\user\documents\introdatastruc\movingmedian\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1666023084 source:c:\users\user\documents\introdatastruc\heapfind_package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"priority_queue.h"
+	"student.h"
+
+1666023084 c:\users\user\documents\introdatastruc\heapfind_package\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666024147 c:\users\user\documents\introdatastruc\heapfind_package\student.h
+	<stdio.h>
+	"priority_queue.h"
+	<iostream>
+

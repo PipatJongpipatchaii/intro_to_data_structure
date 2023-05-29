@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1668566981 source:c:\users\user\documents\introdatastruc\hashmaxbucket\main.cpp
+	<stdexcept>
+	<iostream>
+	"unordered_map.h"
+	"student.h"
+	<vector>
+
+1668566981 c:\users\user\documents\introdatastruc\hashmaxbucket\unordered_map.h
+	<stdexcept>
+	<iostream>
+	<functional>
+	<vector>
+
+1668567607 c:\users\user\documents\introdatastruc\hashmaxbucket\student.h
+	<algorithm>
+	<iostream>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663298359 source:c:\users\user\documents\introdatastruc\vecinsertmany\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1663298359 c:\users\user\documents\introdatastruc\vecinsertmany\vector.h
+	<stdexcept>
+	<iostream>
+
+1663301193 c:\users\user\documents\introdatastruc\vecinsertmany\student.h
+	<algorithm>
+

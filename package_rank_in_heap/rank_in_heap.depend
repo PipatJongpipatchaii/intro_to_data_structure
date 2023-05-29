@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665991324 source:c:\users\user\documents\introdatastruc\package_rank_in_heap\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1665991324 c:\users\user\documents\introdatastruc\package_rank_in_heap\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1665996612 c:\users\user\documents\introdatastruc\package_rank_in_heap\student.h
+	<vector>
+

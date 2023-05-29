@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663128682 source:c:\users\user\documents\introdatastruc\package_vector_mirror\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1663128682 c:\users\user\documents\introdatastruc\package_vector_mirror\vector.h
+	<stdexcept>
+	<iostream>
+
+1663138182 c:\users\user\documents\introdatastruc\package_vector_mirror\student.h
+

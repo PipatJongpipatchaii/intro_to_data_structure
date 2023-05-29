@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666513145 source:c:\users\user\documents\introdatastruc\lsplit_package\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1666513145 c:\users\user\documents\introdatastruc\lsplit_package\list.h
+	<stdexcept>
+	<iostream>
+
+1666514406 c:\users\user\documents\introdatastruc\lsplit_package\student.h
+

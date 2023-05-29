@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666510223 source:c:\users\user\documents\introdatastruc\splitlist_package\main.cpp
+	<iostream>
+	"list.h"
+
+1666510223 c:\users\user\documents\introdatastruc\splitlist_package\list.h
+	<stdexcept>
+	<iostream>
+	"student.h"
+
+1666511253 c:\users\user\documents\introdatastruc\splitlist_package\student.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666926684 source:c:\users\user\documents\introdatastruc\saving for ice cream\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1663927181 source:c:\users\user\documents\introdatastruc\queuesplit\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1663927181 c:\users\user\documents\introdatastruc\queuesplit\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663927962 c:\users\user\documents\introdatastruc\queuesplit\student.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<queue>
+	"queue.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660876728 source:c:\users\user\documents\introdatastruc\mostfrequentword\main.cpp
+	<iostream>
+	<map>
+

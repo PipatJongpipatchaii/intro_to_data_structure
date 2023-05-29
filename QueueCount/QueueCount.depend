@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661852426 source:c:\users\user\documents\introdatastruc\queuecount\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

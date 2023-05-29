@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1663745121 source:c:\users\user\documents\introdatastruc\queuebacktofront\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+	<stdio.h>
+
+1663745121 c:\users\user\documents\introdatastruc\queuebacktofront\queue.h
+	<stdexcept>
+	<iostream>
+
+1663747148 c:\users\user\documents\introdatastruc\queuebacktofront\student.h
+

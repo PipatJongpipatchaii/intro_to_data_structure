@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660664698 source:c:\users\user\documents\introdatastruc\punchvector\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665541863 source:c:\users\user\documents\introdatastruc\cross2d\main.cpp
+	<iostream>
+	<vector>
+

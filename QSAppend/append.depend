@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1663924644 source:c:\users\user\documents\introdatastruc\qsappend\main.cpp
+	<iostream>
+	"student.h"
+
+1663926367 c:\users\user\documents\introdatastruc\qsappend\student.h
+	"stack.h"
+	"queue.h"
+
+1663924645 c:\users\user\documents\introdatastruc\qsappend\stack.h
+	<stdexcept>
+	<iostream>
+
+1663924645 c:\users\user\documents\introdatastruc\qsappend\queue.h
+	<stdexcept>
+	<iostream>
+

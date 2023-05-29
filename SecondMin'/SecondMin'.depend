@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661743625 source:c:\users\user\documents\introdatastruc\secondmin'\main.cpp
+	<algorithm>
+	<iostream>
+	<stack>
+	<queue>
+	<vector>
+	<set>
+	<map>
+	<list>
+

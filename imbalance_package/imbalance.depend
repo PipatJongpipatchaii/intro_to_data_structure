@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667470087 source:c:\users\user\documents\introdatastruc\imbalance_package\main.cpp
+	<iostream>
+	"map_bst.h"
+
+1667466234 c:\users\user\documents\introdatastruc\imbalance_package\map_bst.h
+	<iostream>
+	"student.h"
+
+1667472982 c:\users\user\documents\introdatastruc\imbalance_package\student.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661152521 source:c:\users\user\documents\introdatastruc\intervalcount\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

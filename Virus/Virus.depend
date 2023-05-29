@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674270095 source:c:\users\user\documents\introdatastruc\virus\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660997287 source:c:\users\user\documents\introdatastruc\cucas rating\main.cpp
+	<iostream>
+	<iomanip>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<vector>
+

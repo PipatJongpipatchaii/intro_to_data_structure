@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1666509182 source:c:\users\user\documents\introdatastruc\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"list.h"
+	"student.h"
+	<vector>
+
+1666509182 c:\users\user\documents\introdatastruc\package\list.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<set>
+
+1666510087 c:\users\user\documents\introdatastruc\package\student.h
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660731245 source:c:\users\user\documents\introdatastruc\pairsum\main.cpp
+	<iostream>
+	<algorithm>
+

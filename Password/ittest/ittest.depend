@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660996777 source:c:\users\user\documents\introdatastruc\ittest\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

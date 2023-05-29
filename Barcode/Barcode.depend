@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674145808 source:c:\users\user\documents\introdatastruc\barcode\main.cpp
+	<iostream>
+	<vector>
+

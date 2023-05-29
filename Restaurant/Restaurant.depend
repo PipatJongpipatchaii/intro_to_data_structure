@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662981543 source:c:\users\user\documents\introdatastruc\restaurant\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+

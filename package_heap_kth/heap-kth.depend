@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1667531460 source:c:\users\user\documents\introdatastruc\package_heap_kth\main.cpp
+	<algorithm>
+	<random>
+	<chrono>
+	<cassert>
+	<string>
+	"priority_queue.h"
+	"student.h"
+
+1667531460 c:\users\user\documents\introdatastruc\package_heap_kth\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1667532528 c:\users\user\documents\introdatastruc\package_heap_kth\student.h
+	<algorithm>
+	<vector>
+	"priority_queue.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663829032 source:c:\users\user\documents\introdatastruc\queuemovetofront\package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1663829032 c:\users\user\documents\introdatastruc\queuemovetofront\package\queue.h
+	<stdexcept>
+	<iostream>
+
+1663829870 c:\users\user\documents\introdatastruc\queuemovetofront\package\student.h
+	<algorithm>
+	<iostream>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663747784 source:c:\users\user\documents\introdatastruc\movetoback\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+	<stdio.h>
+
+1663747784 c:\users\user\documents\introdatastruc\movetoback\queue.h
+	<stdexcept>
+	<iostream>
+
+1663753587 c:\users\user\documents\introdatastruc\movetoback\student.h
+	<algorithm>
+	<iostream>
+
